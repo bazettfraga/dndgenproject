@@ -1,0 +1,83 @@
+fighter:
+    name: Fighter
+    hitDice: 10
+    itemChoiceOne: 
+        - Chainmail
+        - Leather Armor
+    itemChoiceTwo:
+        - Shield & Dagger
+        - Longsword
+    itemThree:
+        - Dungoneer's Pack
+    savingThrows:
+        - STR
+        - CON
+    skills:
+        - Acrobatics
+        - Animal Handling
+        - Athletics
+        - History
+        - Insight
+        - Intimidation
+        - Perception
+        - Survival
+    features: 
+        - Fighting Style
+        - Second Wind
+barbarian:
+    name: Barbarian
+    hitDice: 12
+    itemChoiceOne: 
+        - Greataxe
+        - Longsword
+    itemChoiceTwo:
+        - Two Handaxes
+        - Spear
+    itemThree:
+        - Explorer's Pack
+        - Javelin
+    savingThrows:
+        - STR
+        - CON
+    skills:
+        - Animal Handling
+        - Athletics
+        - Intimidation
+        - Nature
+        - Perception
+        - Survival
+    features:
+        - Rage
+        - Unarmored Defense
+rogue:
+    name: Rogue
+    hitDice: 8
+    itemChoiceOne:
+        - Rapier
+        - Shortsword
+    itemChoiceTwo:
+        - Shortbow
+        - Shortsword
+    itemThree:
+        - Leather Armor
+        - Dagger
+        - Thievers' Tools
+    savingThrows:
+        - DEX
+        - INT
+    skills:
+        - Acrobatics
+        - Athletics
+        - Deception
+        - Insight
+        - Intimidation
+        - Investigation
+        - Perception
+        - Performance
+        - Persuasion
+        - Sleight of Hand
+        - Stealth
+    features:
+        - Expertise
+        - Sneak Attack
+        - Thieves' Cant
